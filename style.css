@@ -1,0 +1,10 @@
+table{
+    font-family: impact; sans-serif;
+    border-collapse: collapse: collapse;
+}
+
+th{
+    font-weight: 800;
+    background-color: aqua;
+    color: blue;
+}
